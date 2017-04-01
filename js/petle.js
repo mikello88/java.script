@@ -62,4 +62,5 @@ postinrementacja vs preinktrementacja
 for (var i=1; i<10; ) {
     console.log(++i);
 }
-    console.log('-----')
+    console.log('-----');
+for (var i=1; i <10 ;);
